@@ -18,7 +18,13 @@ body{
 header{
     border: 1px solid #ccc;
     height: 100vh;
+    position: sticky;
+   top: 0;
 
+}
+section {
+  margin-bottom: 50px;
+  scroll-margin: 50px;
 }
 nav h1{
     font-size: 25px;
